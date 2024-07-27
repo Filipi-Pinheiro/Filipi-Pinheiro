@@ -1,3 +1,8 @@
+## Olá!! me chamo Filipi e estudo Front-end
+• 👨‍💻 Estudando: Javascript
+• 📱 Crio meus projetos pelo celular
+• 🎮 Hobby: desenvolver Jogos
+
 <div>
    <a href="https://github.com/Filipi-Pinheiro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipi-Pinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
