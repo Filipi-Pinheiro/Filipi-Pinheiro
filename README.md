@@ -1,11 +1,8 @@
-## Olá!! me chamo Filipi e estuo Front-end
+### Olá!! me chamo Filipi e estuo Front-end
 
-<ul>
- <li>👨‍💻 Estudando: Javascript</li>
- <li>📱 Crio meus projetos pelo celular</li>
- <li>🎮 Hobby: desenvolver Jogos</li>
-</ul>
-
+- 🥱 Estudando: Javascript
+- 😬 Crio meus projetos pelo celular
+- 😛 Hobby: desenvolver Jogos
 
 <div>
    <a href="https://github.com/Filipi-Pinheiro">
