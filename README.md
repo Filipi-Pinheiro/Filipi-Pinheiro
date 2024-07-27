@@ -1,4 +1,4 @@
-### Olá!! me chamo Filipi e estuo Front-end
+### Olá!! me chamo Filipi e estudo Front-end
 
 - 🥱 Estudando: Javascript
 - 😬 Crio meus projetos pelo celular
