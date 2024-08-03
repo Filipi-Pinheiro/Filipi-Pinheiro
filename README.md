@@ -1,8 +1,9 @@
-## Hello! my name's Filipi and I study Front-end
+<h2>Hello! my name's Filipi<br>
+and I study Front-end</h2>
 
-- 🥱 Estudando: Javascript
-- 😬 Crio meus projetos pelo celular
-- 😛 Hobby: desenvolver Jogos
+- 🥱 Studying: Javascript
+- 😬 I create my projects on my cell phone
+- 😛 Hobby: Developing games
 
 <div>
    <a href="https://github.com/Filipi-Pinheiro">
