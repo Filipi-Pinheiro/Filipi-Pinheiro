@@ -1,4 +1,4 @@
-### Olá!! me chamo Filipi e estudo Front-end
+# Hello! my name's Filipi and I study Front-end
 
 - 🥱 Estudando: Javascript
 - 😬 Crio meus projetos pelo celular
