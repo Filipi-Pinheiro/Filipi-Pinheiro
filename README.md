@@ -2,7 +2,7 @@
 and I study Front-end</h2>
 
 - 😬 Studying: Typescript 
-- 💀 Create my projects on my cell phone
+- 💀 I create my projects for my cell phone
   
 <div>
    <a href="https://github.com/Filipi-Pinheiro">
