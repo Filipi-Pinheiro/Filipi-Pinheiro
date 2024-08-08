@@ -2,7 +2,8 @@
 and I study Front-end</h2>
 
 - 😬 Studying: Typescript 
-- 💀 I create my projects directly on my cell phone 
+- 💀 I create my projects on my cell phone
+  
 <div>
    <a href="https://github.com/Filipi-Pinheiro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipi-Pinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
