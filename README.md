@@ -1,8 +1,8 @@
 <h2>Hello! my name's Filipi<br>
 and I study Front-end</h2>
 
-- 😬 Studying: Typescript 
-- 💀 I create projects on my cell phone 
+- 😁 Studying: Typescript.
+- 😦 I create projects on my cell phone. 
   
 <div>
    <a href="https://github.com/Filipi-Pinheiro">
